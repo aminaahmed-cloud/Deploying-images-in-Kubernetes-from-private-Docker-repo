@@ -1,0 +1,1 @@
+# Depoying-images-in-Kubernetes-from-private-Docker-repo
